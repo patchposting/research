@@ -4,6 +4,7 @@ layout: template
 filename: index.md
 ---
 
-Got to [transgenr page](transgenr.md)
+[LGBTQ+](lgbtq.md)
+[Institutional Racism](institutionalracism.md)
 
-hellop thios researhc
+Welcome to *MAGPUPPY パッチ*'s Research Domain.
