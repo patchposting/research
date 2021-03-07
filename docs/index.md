@@ -19,7 +19,7 @@ filename: index.md
 
 - - - -
 
-| Name     | Character |
+| Symbol   | Action |
 | ---      | ---       |
 | Backtick | `         |
 | Pipe     | \|        |
