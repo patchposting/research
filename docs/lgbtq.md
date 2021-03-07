@@ -7,7 +7,7 @@ filename: transgenr.md
 Go Back to [Front Page](index.md)
 
 ## LGBTQ+
-- Transgender People Are Valid
+- Transgender People Are Valid [here](#transgender-people-are-valid)
 - Sex is Complicated and Not Binary
 - Puberty Blockers and Trans Children
 
