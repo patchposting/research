@@ -4,7 +4,7 @@ layout: template
 filename: index.md
 ---
 
-## MAGPUPPY'S RESEARCH DOC.
+## MAGPUPPY'S RESEARCH COMPILATION.
 
 - [LGBTQ+](lgbtq.md)
 - [Institutional Racism](institutionalracism.md)
