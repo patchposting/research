@@ -9,6 +9,7 @@ Go Back to [Front Page](index.md)
 <div align="center">
 ## LGBTQ+
 </div>
+
 - [Sex is Complicated and Not Binary](#sex-is-complicated-and-not-a-binary)
 - [Transgender People Are Valid](#transgender-people-are-valid)
 - [Oppression and Suicidality of Queer People](#oppression-and-suicidality-of-queer-people)
