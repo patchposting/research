@@ -12,7 +12,7 @@ filename: lgbtq.md
 
 # LGBTQ+
 
-- - - -
+` ` `
 
 ### ⥡ Sex is Complicated and Not Binary
 <pre>
