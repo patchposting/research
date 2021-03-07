@@ -7,9 +7,9 @@ filename: transgenr.md
 Go Back to [Front Page](index.md)
 
 <div align="center">
-  <h1>
-## LGBTQ+
-  </h1>
+  <h2>
+    LGBTQ+
+  </h2>
 </div>
 
 - [Sex is Complicated and Not Binary](#sex-is-complicated-and-not-a-binary)
