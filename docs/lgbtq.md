@@ -6,9 +6,9 @@ filename: transgenr.md
 
 Go Back to [Front Page](index.md)
 
-
-## LGBTQ+
 <p align="center">
+## LGBTQ+
+</p>
 <pre>
 Forward - here’s an incomplete list of reputable scientific and social institutions that affirm the validity of transgender people as well as the difference between sex and gender:
 American Academy of Pediatrics
@@ -22,7 +22,6 @@ United Kingdom National Health Service
 United Nations
 World Health Organization
 </pre>
-</p>
 - [Sex is Complicated and Not Binary](#sex-is-complicated-and-not-a-binary)
 - [Transgender People Are Valid](#transgender-people-are-valid)
 - [Oppression and Suicidality of Queer People](#oppression-and-suicidality-of-queer-people)
