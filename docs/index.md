@@ -18,11 +18,3 @@ filename: index.md
 [❯ Institutional Racism](institutionalracism.md)
 
 - - - -
-
-## LEGEND
-| Symbol   | Action               |
-| ---      | ---                  |
-| ❯        | GO TO THIS PAGE      |
-| •        | LINK TO THIS SOURCE  |
-
-- - - -
