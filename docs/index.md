@@ -19,9 +19,9 @@ filename: index.md
 
 - - - -
 
-| Symbol   | Action |
-| ---      | ---       |
-| Backtick | `         |
-| Pipe     | \|        |
+| Symbol   | Action           |
+| ---      | ---              |
+| ❯        | Go to This Page  |
+| -        | Link to Source   |
 
 - - - -
