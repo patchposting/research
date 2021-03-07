@@ -10,7 +10,7 @@ filename: institutionalracism.md
 
 - - - -
 
-[❮ MAIN PAGE](index.md)
+[❮ RESEARCH, FRONT PAGE](index.md)
 
 - - - -
 
