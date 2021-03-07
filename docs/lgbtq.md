@@ -1,7 +1,7 @@
 ---
 title: LGBTQ
 layout: template
-filename: transgenr.md
+filename: lgbtq.md
 --- 
 
 [❮ MAIN PAGE](index.md)
