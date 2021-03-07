@@ -8,14 +8,7 @@ filename: lgbtq.md
 
 - - - -
 
-## LGBTQ+
-<pre>
-Click on these Sub-Sections to Move Around the Page Quickly.
-</pre>
-1. [Sex is Complicated and Not Binary](#sex-is-complicated-and-not-a-binary)
-2. [Transgender People Are Valid](#transgender-people-are-valid)
-3. [Oppression and Suicidality of Queer People](#oppression-and-suicidality-of-queer-people)
-4. [Puberty Blockers and Trans Children](#puberty-blockers-and-trans-children)
+# LGBTQ+
 
 ### ⥡ Sex is Complicated and Not Binary
 <pre>
@@ -59,4 +52,3 @@ Brain Sex                Puberty+           Adult Female Hormone Levels/Patterns
 - x
 
 [BACK TO TOP](#lgbtq)
-          section_title<a name="section_name"></a>    
