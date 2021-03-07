@@ -14,7 +14,7 @@ filename: lgbtq.md
 
 - - - -
 
-# LGBTQ+
+# LGBTQ+, Front Page
 
 - - - -
 
