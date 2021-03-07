@@ -6,7 +6,7 @@ filename: index.md
 
 - - - -
 
-[❮ MAIN PAGE](index.md)
+[❮ LANDING PAGE](https://patchposting.github.io)
 
 - - - -
 
