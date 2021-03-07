@@ -4,6 +4,7 @@ layout: template
 filename: transgenr.md
 --- 
 
-t
-t
-t
+## LGBTQ+
+Go Back to [Front Page](index.md)
+
+- [Institutional Racism](institutionalracism.md)
