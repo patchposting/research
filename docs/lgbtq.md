@@ -1,5 +1,5 @@
 ---
-title: TRANSGENR
+title: LGBTQ
 layout: template
 filename: transgenr.md
 --- 
