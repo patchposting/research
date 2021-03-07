@@ -6,6 +6,8 @@ filename: lgbtq.md
 
 [❮ MAIN PAGE](index.md)
 
+- - - -
+
 ## LGBTQ+
 <pre>
 Click on these Sub-Sections to Move Around the Page Quickly.
