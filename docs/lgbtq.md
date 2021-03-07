@@ -6,6 +6,7 @@ filename: transgenr.md
 
 Go Back to [Front Page](index.md)
 
+<div align="center">
 ##    LGBTQ+
 - [Sex is Complicated and Not Binary](#sex-is-complicated-and-not-a-binary)
 - [Transgender People Are Valid](#transgender-people-are-valid)
@@ -40,3 +41,4 @@ Brain Sex             Puberty+        Adult Female Hormone Levels/Patterns - Adu
 ### Oppression and Suicidality of Queer People
 
 ### Puberty Blockers and Trans Children
+</div>
