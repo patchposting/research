@@ -41,13 +41,13 @@ Brain Sex                Puberty+           Adult Female Hormone Levels/Patterns
 - [WHO Drops Being Transgender from List of Mental Disorders](https://time.com/5596845/world-health-organization-transgender-identity/)
 
 ### ⥡ Oppression and Suicidality of Queer People
-- Gender Identity Non-Discrimination Laws in Public Accommodations 
-- HRC and the 2018 LGBTQ+ Youth Report 
-- HRC on LGBTQ+ and Disproportionate Homelessness 
-- Impacts of Strong Parental Support for Trans Youth 
-- Suicide and Suicidal Behavior Among Transgender Persons 
-- U.S. Transgender Survey (2015) 
-- (Wiki) LGBTQ+ Employment Discrimination in the U.S. 
+- [Gender Identity Non-Discrimination Laws in Public Accommodations](https://link.springer.com/article/10.1007/s13178-018-0335-z)
+- [HRC and the 2018 LGBTQ+ Youth Report](https://assets2.hrc.org/files/assets/resources/2018-YouthReport-NoVid.pdf?_ga=2.134619825.1102244158.1526302453-846000759.1523970534)
+- [HRC on LGBTQ+ and Disproportionate Homelessness](https://www.hrc.org/news/new-report-on-youth-homeless-affirms-that-lgbtq-youth-disproportionately-ex)
+- [Impacts of Strong Parental Support for Trans Youth](http://transpulseproject.ca/wp-content/uploads/2012/10/Impacts-of-Strong-Parental-Support-for-Trans-Youth-vFINAL.pdf)
+- [Suicide and Suicidal Behavior Among Transgender Persons](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5178031/)
+- [U.S. Transgender Survey (2015)](https://williamsinstitute.law.ucla.edu/publications/suicidality-transgender-adults/)
+- [(Wiki) LGBTQ+ Employment Discrimination in the U.S.](https://en.wikipedia.org/wiki/LGBT_employment_discrimination_in_the_United_States)
 
 ### ⥡ Puberty Blockers and Trans Children
 - x
