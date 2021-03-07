@@ -6,6 +6,10 @@ filename: lgbtq.md
 
 - - - -
 
+[❮ LANDING PAGE](https://patchposting.github.io)
+
+- - - -
+
 [❮ MAIN PAGE](index.md)
 
 - - - -
