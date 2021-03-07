@@ -29,7 +29,9 @@ Ex. Genital Sex          (10-20 Weeks)      Vagina; Clitoris (10-20 Weeks) - Pen
 Gender                   Birth+             How we interpret and categorize the mixture of all previous stages.
 
 Brain Sex                Puberty+           Adult Female Hormone Levels/Patterns - Adult Male Hormone Levels/Patterns
+
   - Pubertal Hormonal Sex
+
   - Pubertal Morphological Sex
 </pre>
 - [NYT on Why Sex is Not a Binary](https://www.nytimes.com/2018/10/25/opinion/sex-biology-binary.html?ref=oembed)
