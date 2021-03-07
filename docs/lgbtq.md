@@ -6,13 +6,13 @@ filename: transgenr.md
 
 Go Back to [Front Page](index.md)
 
-## ˅ LGBTQ+
+## ⥡ LGBTQ+
 - [Sex is Complicated and Not Binary](#sex-is-complicated-and-not-a-binary)
 - [Transgender People Are Valid](#transgender-people-are-valid)
 - [Oppression and Suicidality of Queer People](#oppression-and-suicidality-of-queer-people)
 - [Puberty Blockers and Trans Children](#puberty-blockers-and-trans-children)
 
-### ˅ Sex is Complicated and Not Binary
+### ⥡ Sex is Complicated and Not Binary
 <pre>
 Chromosaml Sex        Fertilization   XX - XY [XXY, XYY, XO]
 Fetal Gonadal Sex     (7-20 Weeks)    (10-20 Weeks) Embryonic Ovaries - (7-12 Weeks) Embryonic Testes
@@ -25,7 +25,7 @@ Brain Sex             Puberty+        Adult Female Hormone Levels/Patterns - Adu
   - Pubertal Morphological Sex
 </pre>
 
-### ˅ Transgender People Are Valid
+### ⥡ Transgender People Are Valid
 - [ACOP on Supporting and Caring for Transgender Children](https://assets2.hrc.org/files/documents/SupportingCaringforTransChildren.pdf)
 - [APA on Gender and Sexual Orientation in Children and Adolescents in Schools](https://www.apa.org/about/policy/orientation-diversity)
 - [APA on Lesbian, Gay, Bisexual, and Transgender Concerns](https://www.apa.org/about/policy/booklet.pdf)
@@ -35,7 +35,7 @@ Brain Sex             Puberty+        Adult Female Hormone Levels/Patterns - Adu
 - [UN's Global Campaign Against Homophobia and Transphobia](https://www.unfe.org/about-2/)
 - [WHO Drops Being Transgender from List of Mental Disorders](https://time.com/5596845/world-health-organization-transgender-identity/)
 
-### ˅ Oppression and Suicidality of Queer People
+### ⥡ Oppression and Suicidality of Queer People
 - Gender Identity Non-Discrimination Laws in Public Accommodations 
 - HRC and the 2018 LGBTQ+ Youth Report 
 - HRC on LGBTQ+ and Disproportionate Homelessness 
@@ -44,6 +44,6 @@ Brain Sex             Puberty+        Adult Female Hormone Levels/Patterns - Adu
 - U.S. Transgender Survey (2015) 
 - (Wiki) LGBTQ+ Employment Discrimination in the U.S. 
 
-### ˅ Puberty Blockers and Trans Children
+### ⥡ Puberty Blockers and Trans Children
 - x
 - x
