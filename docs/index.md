@@ -6,6 +6,10 @@ filename: index.md
 
 - - - -
 
+[❮ MAIN PAGE](index.md)
+
+- - - -
+
 # MAGPUPPY'S RESEARCH
 
 - - - -
