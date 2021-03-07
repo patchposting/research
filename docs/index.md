@@ -6,7 +6,7 @@ filename: index.md
 
 ## MAGPUPPY'S RESEARCH COMPILATION.
 
-* [LGBTQ+](lgbtq.md)
-  *
-  *
-* [Institutional Racism](institutionalracism.md)
+- [LGBTQ+](lgbtq.md)
+  - Hell
+  - Hell 2
+- [Institutional Racism](institutionalracism.md)
