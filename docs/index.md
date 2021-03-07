@@ -10,7 +10,7 @@ filename: index.md
 
 - - - -
 
-# RESEARCH
+# Research, Front Page
 
 - - - -
 
