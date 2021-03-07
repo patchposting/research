@@ -36,5 +36,14 @@ Brain Sex             Puberty+        Adult Female Hormone Levels/Patterns - Adu
 - WHO Drops Being Transgender from List of Mental Disorders 
 
 ### Oppression and Suicidality of Queer People
+- Gender Identity Non-Discrimination Laws in Public Accommodations 
+- HRC and the 2018 LGBTQ+ Youth Report 
+- HRC on LGBTQ+ and Disproportionate Homelessness 
+- Impacts of Strong Parental Support for Trans Youth 
+- Suicide and Suicidal Behavior Among Transgender Persons 
+- U.S. Transgender Survey (2015) 
+- (Wiki) LGBTQ+ Employment Discrimination in the U.S. 
 
 ### Puberty Blockers and Trans Children
+- x
+- x
