@@ -27,13 +27,13 @@ Brain Sex             Puberty+        Adult Female Hormone Levels/Patterns - Adu
 
 ### Transgender People Are Valid
 - [ACOP on Supporting and Caring for Transgender Children](https://assets2.hrc.org/files/documents/SupportingCaringforTransChildren.pdf)
-- APA on Gender and Sexual Orientation in Children and Adolescents in Schools 
-- APA on Lesbian, Gay, Bisexual, and Transgender Concerns 
-- APA on Transgender, Gender Identity, and Gender Expression Non-Discrimination 
-- APA on What Transgender Means 
-- NHS on Gender Dysphoria 
-- UN's Global Campaign Against Homophobia and Transphobia 
-- WHO Drops Being Transgender from List of Mental Disorders 
+- [APA on Gender and Sexual Orientation in Children and Adolescents in Schools](https://www.apa.org/about/policy/orientation-diversity)
+- [APA on Lesbian, Gay, Bisexual, and Transgender Concerns](https://www.apa.org/about/policy/booklet.pdf)
+- [APA on Transgender, Gender Identity, and Gender Expression Non-Discrimination](https://www.apa.org/about/policy/resolution-gender-identity.pdf)
+- [APA on What Transgender Means](https://www.apa.org/topics/lgbt/transgender)
+- [NHS on Gender Dysphoria](https://www.nhs.uk/conditions/gender-dysphoria/)
+- [UN's Global Campaign Against Homophobia and Transphobia](https://www.unfe.org/about-2/)
+- [WHO Drops Being Transgender from List of Mental Disorders](https://time.com/5596845/world-health-organization-transgender-identity/)
 
 ### Oppression and Suicidality of Queer People
 - Gender Identity Non-Discrimination Laws in Public Accommodations 
