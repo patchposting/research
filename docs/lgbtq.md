@@ -7,10 +7,10 @@ filename: transgenr.md
 [❮ MAIN PAGE](index.md)
 
 ## LGBTQ+
-➭ [Sex is Complicated and Not Binary](#sex-is-complicated-and-not-a-binary)
-➭ [Transgender People Are Valid](#transgender-people-are-valid)
-➭ [Oppression and Suicidality of Queer People](#oppression-and-suicidality-of-queer-people)
-➭ [Puberty Blockers and Trans Children](#puberty-blockers-and-trans-children)
+- [Sex is Complicated and Not Binary](#sex-is-complicated-and-not-a-binary)
+- [Transgender People Are Valid](#transgender-people-are-valid)
+- [Oppression and Suicidality of Queer People](#oppression-and-suicidality-of-queer-people)
+- [Puberty Blockers and Trans Children](#puberty-blockers-and-trans-children)
 
 ### ⥡ Sex is Complicated and Not Binary
 <pre>
