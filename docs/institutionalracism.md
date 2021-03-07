@@ -10,6 +10,6 @@ filename: institutionalracism.md
 
 - - - -
 
-# Institutional Racism
+# INSTITUTIONAL RACISM
 
 - - - -
