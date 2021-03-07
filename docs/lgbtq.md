@@ -10,7 +10,7 @@ filename: lgbtq.md
 
 - - - -
 
-[❮ MAIN PAGE](index.md)
+[❮ RESEARCH, FRONT PAGE](index.md)
 
 - - - -
 
