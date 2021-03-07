@@ -4,11 +4,7 @@ layout: template
 filename: institutionalracism.md
 --- 
 
-i
-i
-i
-
-## LGBTQ+
+## Institutional Racism
 
 Go Back to [Front Page](index.md)
 
