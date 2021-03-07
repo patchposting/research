@@ -1,5 +1,5 @@
 ---
-title: institutionalracism
+title: instrac
 layout: template
 filename: instrac.md
 --- 
