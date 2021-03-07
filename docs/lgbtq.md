@@ -4,6 +4,8 @@ layout: template
 filename: transgenr.md
 --- 
 
+<pre>
+
 Go Back to [Front Page](index.md)
 
 ## LGBTQ+
@@ -39,3 +41,5 @@ Brain Sex			      Puberty+		    Adult Female Hormone Levels/Patterns - Adult Mal
 ### Oppression and Suicidality of Queer People
 
 ### Puberty Blockers and Trans Children
+
+</pre>
