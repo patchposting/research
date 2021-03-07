@@ -18,3 +18,5 @@ filename: index.md
 - [Institutional Racism](institutionalracism.md)
 
 - - - -
+
+![Alt Text](https://giphy.com/gifs/glitch-art-vaporwave-caitlin-burns-3o7TKtDXJ48AogQxBC)
