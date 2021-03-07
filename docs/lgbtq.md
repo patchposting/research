@@ -26,7 +26,7 @@ Brain Sex             Puberty+        Adult Female Hormone Levels/Patterns - Adu
 </pre>
 
 ### Transgender People Are Valid
-- [ACOP on Supporting and Caring for Transgender Children](https://assets2.hrc.org/files/documents/SupportingCaringforTransChildren.pdf){:target="_blank"}
+- [ACOP on Supporting and Caring for Transgender Children](https://assets2.hrc.org/files/documents/SupportingCaringforTransChildren.pdf)
 - APA on Gender and Sexual Orientation in Children and Adolescents in Schools 
 - APA on Lesbian, Gay, Bisexual, and Transgender Concerns 
 - APA on Transgender, Gender Identity, and Gender Expression Non-Discrimination 
