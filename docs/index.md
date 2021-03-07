@@ -18,3 +18,10 @@ filename: index.md
 [❯ Institutional Racism](institutionalracism.md)
 
 - - - -
+
+| Name     | Character |
+| ---      | ---       |
+| Backtick | `         |
+| Pipe     | \|        |
+
+- - - -
