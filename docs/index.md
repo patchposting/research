@@ -1,6 +1,6 @@
 ---
-title: RESEARCH
-layout: default
+title: INDEX
+layout: template
 filename: index.md
 ---
 
