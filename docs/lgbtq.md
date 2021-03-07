@@ -12,6 +12,7 @@ Go Back to [Front Page](index.md)
 - [Oppression and Suicidality of Queer People](#oppression-and-suicidality-of-queer-people)
 - [Puberty Blockers and Trans Children](#puberty-blockers-and-trans-children)
 
+
 ### Sex is Complicated and Not Binary
 <pre>
 Chromosaml Sex        Fertilization   XX - XY [XXY, XYY, XO]
