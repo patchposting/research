@@ -1,7 +1,7 @@
 ---
 title: institutionalracism
 layout: template
-filename: instrac.md
+filename: institutionalracism.md
 --- 
 
 - - - -
