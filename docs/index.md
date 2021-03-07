@@ -19,9 +19,10 @@ filename: index.md
 
 - - - -
 
-| Symbol   | Action           |
-| ---      | ---              |
-| ❯        | Go to This Page  |
-| -        | Link to Source   |
+## LEGEND
+| Symbol   | Action               |
+| ---      | ---                  |
+| ❯        | GO TO THIS PAGE      |
+| •        | LINK TO THIS SOURCE  |
 
 - - - -
