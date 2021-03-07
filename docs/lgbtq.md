@@ -63,6 +63,6 @@ Brain Sex                Puberty+           Adult Female Hormone Levels/Patterns
 
 - - - -
 
-[ˆ BACK TO TOP](#lgbtq)
+[BACK TO TOP ˆ](#lgbtq)
 
 - - - -
