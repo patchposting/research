@@ -6,7 +6,7 @@ filename: transgenr.md
 
 Go Back to [Front Page](index.md)
 
-<p align="center">
+<p align="right">
 ## LGBTQ+
 </p>
 <pre>
