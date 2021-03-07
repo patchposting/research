@@ -4,7 +4,7 @@ layout: template
 filename: transgenr.md
 --- 
 
-[⍇ MAIN PAGE](index.md)
+[❮ MAIN PAGE](index.md)
 
 ## LGBTQ+
 1. [Sex is Complicated and Not Binary](#sex-is-complicated-and-not-a-binary)
