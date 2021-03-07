@@ -26,16 +26,14 @@ Brain Sex             Puberty+        Adult Female Hormone Levels/Patterns - Adu
 </pre>
 
 ### Transgender People Are Valid
-- American Academy of Pediatrics
-- American College of Osteopathic Pediatricians
-- American Medical Association
-- American Psychoanalytic Association
-- American Psychological Association
-- Human Rights Campaign
-- Scientific American
-- United Kingdom National Health Service
-- United Nations
-- World Health Organization
+- ACOP on Supporting and Caring for Transgender Children 
+- APA on Gender and Sexual Orientation in Children and Adolescents in Schools 
+- APA on Lesbian, Gay, Bisexual, and Transgender Concerns 
+- APA on Transgender, Gender Identity, and Gender Expression Non-Discrimination 
+- APA on What Transgender Means 
+- NHS on Gender Dysphoria 
+- UN's Global Campaign Against Homophobia and Transphobia 
+- WHO Drops Being Transgender from List of Mental Disorders 
 
 ### Oppression and Suicidality of Queer People
 
