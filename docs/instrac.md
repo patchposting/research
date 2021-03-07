@@ -10,6 +10,6 @@ filename: instrac.md
 
 - - - -
 
-# INSTITUTIONAL RACISM
+# Institutional Racism
 
 - - - -
