@@ -10,6 +10,6 @@ i
 
 ## LGBTQ+
 
-GO BACK TO [Front Page](index.md)
+Go Back to [Front Page](index.md)
 
 - [LGBTQ+](lgbtq.md)
