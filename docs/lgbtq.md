@@ -4,8 +4,6 @@ layout: template
 filename: transgenr.md
 --- 
 
-<pre>
-
 Go Back to [Front Page](index.md)
 
 ## LGBTQ+
@@ -15,6 +13,7 @@ Go Back to [Front Page](index.md)
 - [Puberty Blockers and Trans Children](#puberty-blockers-and-trans-children)
 
 ### Sex is Complicated and Not Binary
+<pre>
 Chromosaml Sex      Fertilization	  XX - XY [XXY, XYY, XO]
 Fetal Gonadal Sex   (7-20 Weeks)	  (10-20 Weeks) Embryonic Ovaries - (7-12 Weeks) Embryonic Testes
 Fetal Hormonal Sex  (7-12 Weeks)	  Estrogen; Progesterone - Testosterone
@@ -24,7 +23,7 @@ Gender			        Birth+		      How we interpret and categorize the mixture of al
 Brain Sex			      Puberty+		    Adult Female Hormone Levels/Patterns - Adult Male Hormone Levels/Patterns
 - Pubertal Hormonal Sex
 - Pubertal Morphological Sex
-
+</pre>
 
 ### Transgender People Are Valid
 - American Academy of Pediatrics
@@ -41,5 +40,3 @@ Brain Sex			      Puberty+		    Adult Female Hormone Levels/Patterns - Adult Mal
 ### Oppression and Suicidality of Queer People
 
 ### Puberty Blockers and Trans Children
-
-</pre>
