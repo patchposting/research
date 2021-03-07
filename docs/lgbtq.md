@@ -7,6 +7,9 @@ filename: transgenr.md
 [❮ MAIN PAGE](index.md)
 
 ## LGBTQ+
+<pre>
+Click on these Sub-Sections to Move Around the Page Quickly.
+</pre>
 1. [Sex is Complicated and Not Binary](#sex-is-complicated-and-not-a-binary)
 2. [Transgender People Are Valid](#transgender-people-are-valid)
 3. [Oppression and Suicidality of Queer People](#oppression-and-suicidality-of-queer-people)
