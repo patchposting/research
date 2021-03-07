@@ -8,6 +8,8 @@ i
 i
 i
 
-## Welcome to the Research Domain, Created by MAGPUPPY パッチ.
+## LGBTQ+
+
+GO BACK TO [Front Page](index.md)
 
 - [LGBTQ+](lgbtq.md)
