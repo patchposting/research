@@ -4,11 +4,15 @@ layout: template
 filename: lgbtq.md
 --- 
 
+- - - -
+
 [❮ MAIN PAGE](index.md)
 
 - - - -
 
 # LGBTQ+
+
+- - - -
 
 ### ⥡ Sex is Complicated and Not Binary
 <pre>
@@ -28,6 +32,8 @@ Brain Sex                Puberty+           Adult Female Hormone Levels/Patterns
 - [Gene Variants Provide Insight into Brain, Body Incongruence in Transgender Persons](https://www.sciencedaily.com/releases/2020/02/200205084203.htm)
 - [Rare Genetic Variants in Transgender Persons](https://www.nature.com/articles/s41598-019-53500-y)
 
+- - - -
+
 ### ⥡ Transgender People Are Valid
 - [ACOP on Supporting and Caring for Transgender Children](https://assets2.hrc.org/files/documents/SupportingCaringforTransChildren.pdf)
 - [APA on Gender and Sexual Orientation in Children and Adolescents in Schools](https://www.apa.org/about/policy/orientation-diversity)
@@ -38,6 +44,8 @@ Brain Sex                Puberty+           Adult Female Hormone Levels/Patterns
 - [UN's Global Campaign Against Homophobia and Transphobia](https://www.unfe.org/about-2/)
 - [WHO Drops Being Transgender from List of Mental Disorders](https://time.com/5596845/world-health-organization-transgender-identity/)
 
+- - - -
+
 ### ⥡ Oppression and Suicidality of Queer People
 - [Gender Identity Non-Discrimination Laws in Public Accommodations](https://link.springer.com/article/10.1007/s13178-018-0335-z)
 - [HRC and the 2018 LGBTQ+ Youth Report](https://assets2.hrc.org/files/assets/resources/2018-YouthReport-NoVid.pdf?_ga=2.134619825.1102244158.1526302453-846000759.1523970534)
@@ -47,8 +55,14 @@ Brain Sex                Puberty+           Adult Female Hormone Levels/Patterns
 - [U.S. Transgender Survey (2015)](https://williamsinstitute.law.ucla.edu/publications/suicidality-transgender-adults/)
 - [(Wiki) LGBTQ+ Employment Discrimination in the U.S.](https://en.wikipedia.org/wiki/LGBT_employment_discrimination_in_the_United_States)
 
+- - - -
+
 ### ⥡ Puberty Blockers and Trans Children
 - x
 - x
 
+- - - -
+
 [BACK TO TOP](#lgbtq)
+
+- - - -
