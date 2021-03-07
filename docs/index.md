@@ -15,6 +15,6 @@ filename: index.md
 - - - -
 
 [❯ LGBTQ+](lgbtq.md)\
-[❯ Institutional Racism](instrac.md)
+[❯ Institutional Racism](institutionalracism.md)
 
 - - - -
