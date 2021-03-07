@@ -10,7 +10,7 @@ filename: index.md
 
 - - - -
 
-# MAGPUPPY'S RESEARCH
+# RESEARCH
 
 - - - -
 
