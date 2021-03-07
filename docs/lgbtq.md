@@ -24,6 +24,11 @@ Brain Sex                Puberty+           Adult Female Hormone Levels/Patterns
   - Pubertal Hormonal Sex
   - Pubertal Morphological Sex
 </pre>
+- NYT on Why Sex is Not a Binary 
+- Sage Journals on Gender and the Genome 
+- SA on the Extraordinary Complexity of Sex Determination 
+- Gene Variants Provide Insight into Brain, Body Incongruence in Transgender Persons 
+* Rare Genetic Variants in Transgender Persons 
 
 ### ⥡ Transgender People Are Valid
 - [ACOP on Supporting and Caring for Transgender Children](https://assets2.hrc.org/files/documents/SupportingCaringforTransChildren.pdf)
